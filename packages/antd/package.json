@@ -55,7 +55,7 @@
     "concurrently": "^5.1.0",
     "core-js": "^2.5.7",
     "cross-env": "^2.0.1",
-    "css-loader": "^3.2.0",
+    "css-loader": "^5.1.2",
     "dayjs": "^1.8.0",
     "eslint": "^4.9.0",
     "eslint-config-react-app": "^2.0.1",
